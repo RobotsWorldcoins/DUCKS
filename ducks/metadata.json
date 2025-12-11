@@ -1,0 +1,29 @@
+{
+  "name": "DUCKS",
+  "short_name": "DUCKS",
+  "description": "Grow ducks, hatch eggs, and earn WLD in this gamified DeFi ecosystem.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#fbbf24",
+  "background_color": "#fffbeb",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "categories": [
+    "finance",
+    "games",
+    "web3"
+  ],
+  "requestFramePermissions": []
+}
